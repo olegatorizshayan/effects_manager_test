@@ -1,0 +1,5 @@
+﻿  main.cpp
+  test_manager.cpp
+  The contents of <filesystem> are only available with C++17 or later.
+  Generating Code...
+  test_manager.vcxproj -> D:\projects\c++\test_manager\Debug\test_manager.exe
